@@ -30,3 +30,6 @@ Sudoku puzzles can be **automatically solved** by scanning via camera or gallery
 
 ---
 
+🔒 **Note:** This project is currently closed-source.  
+The source code will not be publicly shared. A link to the Google Play Store listing will be added here once the app is published.
+
